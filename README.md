@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=davidoof66&show_icons=true&theme=radical)
-<p>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidoof66&layout=compact&hide=html,css" alt="My Top Langs" />
-</p>
 
 **Languages and Tools:**  
 
